@@ -69,3 +69,6 @@ print(a) ; // 1
    * +-*/%
    * && || !
    * <= >= > < !=
+
+9. others
+   * break, continue
